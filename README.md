@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://tenor.com/m1C8riiNwsm.gif"  />
-</div>
-
 ###
 
 <div align="center">
