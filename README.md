@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  Siapa gweh?</h3>
+<h3 align="left">👩‍💻  Ga taw bwang</h3>
 
 ###
 
-<p align="left">hanya mhs gabut</p>
+<p align="left">gabutt</p>
 
 ###
 
