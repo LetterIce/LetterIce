@@ -1,12 +1,4 @@
-<h1 align="center">P, Info</h1>
-
-###
-
-<h3 align="left">👩‍💻  Ga taw bwang</h3>
-
-###
-
-<p align="left">gabutt</p>
+<h1 align="center">Hello there!</h1>
 
 ###
 
